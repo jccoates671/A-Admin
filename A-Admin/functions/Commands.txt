@@ -1,0 +1,6 @@
+IMPORTANT!! In Order For This Pack To Work Make Sure At All Times The Following Commands Are Being Ran In A Repeat Command Block On Always Active
+/function Base
+
+Commands
+/function ModAdd - Function Must Be Ran With Execute Adds A Mod
+/function Freeze - Obtain The Freeze Block |Mod Up

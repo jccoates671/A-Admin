@@ -1,0 +1,19 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Running A Bedrock Realm? HArd Right? Well Not Anymore With This Function Pack. For More Info Simply Open The Function Pack",
+        "name": "A Admin",
+        "uuid": "ee649bcf-2565c-4013-9068-6a892b89d789",
+        "version": [0, 0, 1],
+        "min_engine_version":[1,8,0]
+    },
+    "min_engine_version" : [ 0, 0, 1, 1, 2, 5 ],
+    "modules": [
+        {
+            "description": "Running A Bedrock Realm? HArd Right? Well Not Anymore With This Function Pack. For More Info Simply Open The Function Pack",
+            "type": "data",
+            "uuid": "fa6e90c8-c925-460f-0155-p8a60b653caa",
+            "version": [0, 0, 1]
+        }
+    ]
+}
